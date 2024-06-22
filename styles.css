@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+    }
+    
+    .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    }
+    
+    h1 {
+    text-align: center;
+    color: #333;
+    }
+    
+    label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    }
+    
+    input[type="number"],
+    input[type="file"],
+    input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    }
+    
+    input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    }
+    
+    input[type="submit"]
+    {
+    background-color: #45a049;
+    }
+    
+    h2 {
+    text-align: center;
+    color: #555;
+    }
+    
+    strong {
+    display: block;
+    margin: 10px 0 5px;
+    color: #333;
+    }
